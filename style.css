@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.red-bar {
+  margin-top: 50px;
+  width: 97%;
+  background: #e33127;
+  padding: 18px;
+  border-bottom: solid #333 3px;
+}
+
+li {
+  display: inline;
+  font-family: sans-serif;
+  padding: 21px;
+  color: #fff;
+  font-size: 19px;
+  font-weight: lighter;
+}
+
+.selected {
+  background: #434343;
+  padding-top: 22px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li:hover {
+}
